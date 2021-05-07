@@ -1,0 +1,31 @@
+
+You may spawn the server:
+On your laptop
+
+    Install docker
+    docker pull archiveooo/pub:cozen (docker-saved download)
+    docker run -d --name cozen archiveooo/pub:cozen
+    Local IP: docker inspect cozen -f '{{ .NetworkSettings.Networks.bridge.IPAddress }}'
+    Connect to that IP:51015 — Remember to docker rm -f when done.
+
+On your laptop (full source)
+
+    Install docker and pip install PyYAML coloredlogs
+    git clone https://github.com/LightningTH/Cozen
+    cd cozen
+    ./spawner --log-level=INFO
+    Connect to the ip:port displayed
+
+Hosted by OOO
+Right now we're asking players to login first.
+
+Welcome to Lightning's BBS
+
+This was a guest challenge from Lightning, of legitbs fame (the previous DEF CON CTF hosts)
+
+Join #cozen on hackint
+
+Hints
+
+None yet :(
+If you wish, you can contribute some.

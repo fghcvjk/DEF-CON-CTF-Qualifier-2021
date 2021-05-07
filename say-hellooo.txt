@@ -1,0 +1,13 @@
+Hello, and welcome to our game! We are so excited to hack with you today. How excited? Call Zardus on the telephone and find out! Seriously, call Zardus on the telephone and we'll give you the flag.
+
+You don't need to call Zardus anymore, feel free to watch this video instead LIKE AND SUBSCRIBE: https://youtu.be/7K2x4UQGPQw
+
+Yes, we really did answer the phone in the first couple hours.
+
+
+Hint 1
+Sometimes you have to take things literally.
+Hint 2
+Tons of players tried to come up with a phone number based on the name, call on Discord, post phone emojis, ... But no, you really had to call.
+Hint 3
+Base web recon will get you the phone number.
